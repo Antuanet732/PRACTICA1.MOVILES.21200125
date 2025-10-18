@@ -15,7 +15,7 @@ import coil.compose.AsyncImage
 import java.text.NumberFormat
 import java.util.*
 
-// Data Class para el auto
+// aaaData Class para el auto
 data class Car(
     val brand: String,
     val model: String,
